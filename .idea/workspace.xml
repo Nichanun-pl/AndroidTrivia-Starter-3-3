@@ -6,7 +6,18 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05544576-214e-45c0-bb1c-70fcf26b2887" name="Default Changelist" comment="" />
+    <list default="true" id="05544576-214e-45c0-bb1c-70fcf26b2887" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +35,13 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -124,18 +142,31 @@
       <option name="project" value="LOCAL" />
       <updated>1595789444386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Step 1: Add navigation dependencies">
+      <created>1595789622102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595789622102</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Add navigation components to the projectTask: Add navigation components to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Add navigation components to the projectTask: Add navigation components to the project" />
+    <MESSAGE value="Step 1: Add navigation dependencies" />
+    <MESSAGE value="Step 2: Add a navigation graph to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step 2: Add a navigation graph to the project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1595789442513">
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog" timestamp="1595789647988">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789442513" />
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789647988" />
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1595789857522">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789857522" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1595789207965">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -144,10 +175,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789192264" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595789550697">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595789627144">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789550697" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789627144" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1595788576586">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
