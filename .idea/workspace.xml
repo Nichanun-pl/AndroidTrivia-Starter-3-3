@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05544576-214e-45c0-bb1c-70fcf26b2887" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -330,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595796036711</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Step 3: Add a NavDirection class to the game fragment">
+      <created>1595796586751</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1595796586754</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -356,17 +363,18 @@
     <MESSAGE value="Step 5: Display the navigation drawer from the drawer button" />
     <MESSAGE value="Task: Set up and use the Safe Args plugin" />
     <MESSAGE value="Step 2: Add Safe Args to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 2: Add Safe Args to the project" />
+    <MESSAGE value="Step 3: Add a NavDirection class to the game fragment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step 3: Add a NavDirection class to the game fragment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="139" key="AndroidCreateResourceFileDialog" timestamp="1595793654138">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="263" y="139" key="AndroidCreateResourceFileDialog/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595793654138" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1595796035478">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1595796584407">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595796035478" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595796584407" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1595796351782">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -375,10 +383,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789192264" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595796041789">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595796589420">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595796041789" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595796589420" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1595788576586">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
