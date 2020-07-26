@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05544576-214e-45c0-bb1c-70fcf26b2887" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="05544576-214e-45c0-bb1c-70fcf26b2887" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +26,12 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fEgFdM5pNmfsUQjW2X9i7hhpZP" />
@@ -113,9 +117,25 @@
       <option name="presentableId" value="Default" />
       <updated>1595788565174</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task: Add navigation components to the projectTask: Add navigation components to the project">
+      <created>1595789444385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595789444386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task: Add navigation components to the projectTask: Add navigation components to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Add navigation components to the projectTask: Add navigation components to the project" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1595789442513">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789442513" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1595789207965">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -124,6 +144,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789192264" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595789550697">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789550697" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1595788576586">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
