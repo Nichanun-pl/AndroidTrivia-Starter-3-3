@@ -6,19 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05544576-214e-45c0-bb1c-70fcf26b2887" name="Default Changelist" comment="Step 5: Display the navigation drawer from the drawer button">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+    <list default="true" id="05544576-214e-45c0-bb1c-70fcf26b2887" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595794597112</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Task: Set up and use the Safe Args plugin">
+      <created>1595795868155</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1595795868155</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Step 2: Add Safe Args to the project">
+      <created>1595796036709</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1595796036711</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -350,29 +354,31 @@
     <MESSAGE value="Step 3: Create the drawer menu and the drawer layout" />
     <MESSAGE value="Step 4: Display the navigation drawer" />
     <MESSAGE value="Step 5: Display the navigation drawer from the drawer button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 5: Display the navigation drawer from the drawer button" />
+    <MESSAGE value="Task: Set up and use the Safe Args plugin" />
+    <MESSAGE value="Step 2: Add Safe Args to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step 2: Add Safe Args to the project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="139" key="AndroidCreateResourceFileDialog" timestamp="1595793654138">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="263" y="139" key="AndroidCreateResourceFileDialog/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595793654138" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1595795865832">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1595796035478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595795865832" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1595795146343">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595796035478" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1595796351782">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595795146342" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595796351782" />
     <state x="184" y="26" key="SettingsEditor" timestamp="1595789192264">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595789192264" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595795871975">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595796041789">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595795871975" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1595796041789" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1595788576586">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
