@@ -59,3 +59,6 @@ dependencies {
     implementation "android.arch.navigation:navigation-ui-ktx:$navigationVersion"
     implementation "com.google.android.material:material:$supportlibVersion"
 }
+
+// Adding the apply plugin statement for safeargs
+apply plugin: 'androidx.navigation.safeargs'
