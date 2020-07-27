@@ -49,5 +49,4 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-// Adding the apply plugin statement for safeargs
-apply plugin: 'androidx.navigation.safeargs'
+
